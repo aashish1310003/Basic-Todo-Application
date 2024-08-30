@@ -1,0 +1,9 @@
+.counterButton{
+    font-size: 16px;
+    background-color:#109a9f;
+    width:100px;
+    margin: 10px;
+    color: aliceblue;
+    padding: 15px;
+    border-radius: 30px;
+}
